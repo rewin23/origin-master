@@ -6,4 +6,7 @@ seo:
   image: "/images/hero-2.jpg"
 
 ---
-    Привет мир
+    Привет мир!
+    Hello world!
+    Hola Mundo!
+    Ciao Mondo!
