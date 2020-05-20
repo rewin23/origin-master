@@ -36,10 +36,10 @@ That's it, now your site gets deployed automatically on `git push` or when savin
 
 ```bash
 # clone the repository
-git clone git@github.com:forestryio/novela-hugo-starter.git
+git clone git@github.com:rewin23/origin-master.git
 
 # cd in the project directory
-cd novela-hugo-starter
+cd origin-master
 
 # Start local dev server
 hugo server
